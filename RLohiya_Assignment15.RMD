@@ -1,0 +1,14 @@
+---
+title: "RLohiya Assignment15"
+author: "Ritesh Lohiya"
+date: "December 2, 2018"
+output: html_document
+---
+
+#                             ASSIGNMENT 15
+
+#           IS 605 FUNDAMENTALS OF COMPUTATIONAL MATHEMATICS
+
+1. Find the equation of the regression line for the given points. Round any final values to the nearest hundredth, if necessary.
+
+( 5.6, 8.8 ), ( 6.3, 12.4 ), ( 7, 14.8 ), ( 7.7, 18.2 ), ( 8.4, 20.8 )
